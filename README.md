@@ -1,4 +1,4 @@
-#folder_sync
+# folder_sync
 Folder synchronization script for VEEAM test task.
 
 Usage:
