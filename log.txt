@@ -1,0 +1,20 @@
+2024-03-29 20:03:36: Syncing files from ./source to ./dest1
+2024-03-29 20:03:36: Copying testfile.txt from ./source to ./dest1
+2024-03-29 20:03:36: Copying testfile2.txt from ./source to ./dest1
+2024-03-29 20:04:36: Syncing files from ./source to ./dest1
+2024-03-29 20:04:36: Removing testfile2.txt from ./dest1
+2024-03-29 20:05:40: Syncing files from ./source to ./dest1
+2024-03-29 20:05:40: Copying testfile2.txt from ./source to ./dest1
+2024-03-29 20:05:40: Sync completed from ./source to ./dest1
+2024-03-29 20:10:56: Syncing files from ./source to ./dest1
+2024-03-29 20:10:56: Sync completed from ./source to ./dest1
+2024-03-29 20:13:02: Syncing files from ./source to ./dest1
+2024-03-29 20:13:02: Sync completed from ./source to ./dest1
+2024-03-29 20:14:02: Syncing files from ./source to ./dest1
+2024-03-29 20:14:02: Sync completed from ./source to ./dest1
+2024-03-29 20:15:02: Syncing files from ./source to ./dest1
+2024-03-29 20:15:02: Sync completed from ./source to ./dest1
+2024-03-29 20:16:02: Syncing files from ./source to ./dest1
+2024-03-29 20:16:02: Sync completed from ./source to ./dest1
+2024-03-29 20:17:02: Syncing files from ./source to ./dest1
+2024-03-29 20:17:02: Sync completed from ./source to ./dest1
